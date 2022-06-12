@@ -1,3 +1,6 @@
+# This fork only fixes the bug in gofpdf when MultiCell is called using Kanji!
+
+
 # GoFPDF document generator
 
 [![No Maintenance
